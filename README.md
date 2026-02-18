@@ -7,6 +7,12 @@ An open-source community for learning and building backend projects using Python
 
 # BackendDeveloperHub 🚀
 
+      You don't need to be expert.
+      You only need curiosity.
+      We build backend together.
+
+
+
 BackendDeveloperHub is an open-source community focused on **backend development**.
 Our goal is to help beginners and intermediate developers learn by building
 **real-world backend projects** together.
